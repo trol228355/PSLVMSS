@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to right,lightgreen, aquamarine);
+    padding: 15px;
+}
+
+header a{
+    text-decoration: none;
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 10px;
+    color:limegreen;
+}
+
+nav {
+    text-align: center;
+    padding: 15px;
+    background-image: linear-gradient(to right, aquamarine, lightgreen);
+    margin-top: 15px;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 40px;
+    color: limegreen;
+    background-color:springgreen;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+nav a:hover {
+    font-size: 20px;
+}
+
+h1 {
+    color: springgreen;
+    text-shadow: 15px 10px 10px springgreen;
+}
