@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: cursive;
 }
 
 header {
@@ -38,4 +38,8 @@ nav a:hover {
 h1 {
     color: springgreen;
     text-shadow: 15px 10px 10px springgreen;
+}
+
+ul {
+    font-size: 20px;
 }
