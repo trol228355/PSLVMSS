@@ -7,6 +7,14 @@ header {
     padding: 15px;
 }
 
+.dsa {
+    heigh: 250px;
+}
+
+.dsaa {
+    width:250px;
+}
+
 header a{
     text-decoration: none;
     background-color: aquamarine;
